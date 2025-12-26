@@ -1,10 +1,6 @@
 # OIBSIP_Datascience_2
 
 Sales Prediction Using Machine Learning 📊
-Show Image
-Show Image
-Show Image
-Show Image
 
 A complete machine learning pipeline to predict product sales based on advertising spending across multiple channels (TV, Radio, Newspaper). This project demonstrates end-to-end ML workflow from data exploration to model deployment.
 
@@ -455,6 +451,15 @@ Target: Sales
 Last Updated: January 2025
 Status: ✅ Active & Maintained
 Contributions: Welcome!
+
+👤 Author PUSHPARANI.B 
+
+Github: https://github.com/pushparani7/
+Email: pushparanib7@gmail.com
+Connect on LinkedIn : https://www.linkedin.com/in/pushparani-b-839208337 
+🙏 Acknowledgments Oasis Internship Program for the learning opportunity Scikit-learn documentation for excellent resources Data science community for inspiration and guidance
+
+⭐ If you found this helpful, please star the repository!
 
 Happy Learning! 🚀 If this project helped you, please consider starring ⭐
 
